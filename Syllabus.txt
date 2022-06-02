@@ -1,0 +1,29 @@
+Web Technologies :
+
+1) FrontEnd -> App Registration, Login -> UI Developer : 
+2) Backend -> Server -> remote -> Backend Developer :
+3) Database -> server. -> Database Developer -> sql(Oracle) scripting -> create table, modify table, scripts(business logic)
+
+Database : 
+Username,
+password,
+email,
+phone number
+
+Full Stack Developer : FrontEnd, Backend, Database.
+
+React(Facebook), Angular(Google)(Node.js).
+
+Calci Computer : 0,1(Binary Numbers)
+"Vinay" : 0110101001011001
+
+React.Js(Full Stack UI Developer) :
+1) HTML : skeleton
+2) CSS : styling
+3) JavaScript : Dynamic Webpage
+4) React.Js : HTML, CSS, Javascript.
+
+
+
+
+
